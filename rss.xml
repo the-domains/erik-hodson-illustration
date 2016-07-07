@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Erik Hodson Illustration]]></title>
         <description><![CDATA[Erik Hodson Illustration]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/erik-hodson-illustration/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 16:57:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jul 2016 16:57:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/erik-hodson-illustration/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7ee8d4e-c4a8-42e9-94dc-5fd58a685339.jpg">]]></description>
+            <link>https://thegrid.ai/erik-hodson-illustration/040cff64-8c2a-4ced-9ce6-9cc5093e4a8b/index.html</link>
+            <guid isPermaLink="false">040cff64-8c2a-4ced-9ce6-9cc5093e4a8b</guid>
+            <pubDate>Thu, 07 Jul 2016 16:57:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78995176-942b-4e72-bed8-b1d35f95cd29.jpg">]]></description>
-            <link>undefined0ac14609-6c3a-4717-980b-f262f561dec0/index.html</link>
+            <link>https://thegrid.ai/erik-hodson-illustration/0ac14609-6c3a-4717-980b-f262f561dec0/index.html</link>
             <guid isPermaLink="false">0ac14609-6c3a-4717-980b-f262f561dec0</guid>
             <pubDate>Thu, 07 Jul 2016 16:56:59 GMT</pubDate>
         </item>
